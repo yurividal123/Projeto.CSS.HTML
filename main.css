@@ -140,3 +140,7 @@
             color: #ececec;
             padding: 16px 0;
         }
+
+        #loom-companion-mv3 {
+          display: none;
+        }
